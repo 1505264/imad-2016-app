@@ -1,0 +1,73 @@
+[33mcommit b28cebbc65495a1652903391526d97f55295305d[m
+Author: Vipul <1505264@iit.ac.in>
+Date:   Sat Sep 17 23:17:20 2016 +0530
+
+    Made some changes locally
+
+[33mcommit f57ba09a5ce1aad7a65ab9883e119203d1df51ed[m
+Author: Tanmai Gopal <tanmaig@34cross.in>
+Date:   Thu Sep 15 23:11:34 2016 +0530
+
+    Changes port to be 8080
+
+[33mcommit 62c3c96a64e7fc6d0fa38c3a13660be0f8e3b05a[m
+Author: Tanmai Gopal <tanmaig@34cross.in>
+Date:   Thu Sep 15 22:57:13 2016 +0530
+
+    Adds UI
+
+[33mcommit 50b3bbb150301cf5a3fea3b2154244f19f973ff6[m
+Author: Tanmai Gopal <tanmaig@34cross.in>
+Date:   Thu Sep 15 19:43:42 2016 +0530
+
+    Better directory structure
+
+[33mcommit f9f0c8c451e881027be6bb4445bf0ae06a99f26a[m
+Merge: 48fb83a 99f60f9
+Author: Tanmai Gopal <tanmaig@34cross.in>
+Date:   Thu Sep 15 14:52:48 2016 +0530
+
+    Merge branch 'master' of https://github.com/hasura-imad/imad-2016-app
+
+[33mcommit 48fb83a5473698f676f4fe329f334b929cb2415f[m
+Author: Tanmai Gopal <tanmaig@34cross.in>
+Date:   Thu Sep 15 14:51:39 2016 +0530
+
+    Adds more dependencies to package.json and code now works on localhost
+
+[33mcommit 99f60f9dbb825df45da2b31854a02e35e5bc4f4f[m
+Author: rikinsk <rikin.kachhia@gmail.com>
+Date:   Thu Sep 15 01:24:04 2016 +0530
+
+    Created appV1
+
+[33mcommit e46ff2d549803b5f9df1e91e2a7248f4ce149415[m
+Author: Coco <tanmaig@34cross.in>
+Date:   Sun Sep 4 19:29:02 2016 +0530
+
+    Update server.js
+
+[33mcommit 0546d798e3d1b83e1d7f378b16e0575713cd8464[m
+Merge: 933e94b a2305d6
+Author: Tanmai Gopal <tanmaig@34cross.in>
+Date:   Sun Sep 4 19:22:25 2016 +0530
+
+    Merge branch 'master' of https://github.com/hasura-imad/imad-2016-app
+
+[33mcommit 933e94bf44087dfa1cfe36ad0587c7a233b49d2e[m
+Author: Tanmai Gopal <tanmaig@34cross.in>
+Date:   Sun Sep 4 19:21:29 2016 +0530
+
+    Adds logging
+
+[33mcommit a2305d6e6a2a06a04a010aa362ad497dd925f0f7[m
+Author: Coco <tanmaig@34cross.in>
+Date:   Sat Sep 3 20:35:46 2016 +0530
+
+    Update server.js
+
+[33mcommit 94f80fa6ff6f5e33bc44374e875d58ef0606b6b5[m
+Author: Tanmai Gopal <tanmaig@34cross.in>
+Date:   Sat Sep 3 01:19:46 2016 +0530
+
+    Adds basic files
