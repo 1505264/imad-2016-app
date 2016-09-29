@@ -14,13 +14,13 @@ button.onclick=function(){
             if(request.status===200){
                 var counter=request.responseText;
                 var span = document.getElementById('count');
-    span.innerHTML = counter.toString();
+                span.innerHTML = counter.toString();
             }
         }
     };
     
     //Make the request
-    request.open('GET','localhost:8080/counter',true);
+    request.open('GET','127.0.0.1:8080/counter',true);
     request.send(null);
     
     
